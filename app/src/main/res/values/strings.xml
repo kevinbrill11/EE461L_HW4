@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Map With Marker</string>
+    <string name="title_activity_maps">Map with Marker</string>
+    <string name="home_name">Location Marker</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="edit_message">Enter a location</string>
+    <string name="button_send">Send</string>
+</resources>
